@@ -1,4 +1,4 @@
-<img  width=100% src="https://github.com/Nemesidas/Nevesidas/blob/master/Banner%20Github.jpg" />
+<img  width=100% src="https://github.com/Nemesidas/Nevesidas/blob/master/Banner-Github.jpg" />
 
 ### Front-end developer 3+ years
 :white_check_mark: Highly competent in translating business needs into technical requirements.<br/>
@@ -8,13 +8,13 @@
 My recent projects:<br/>
 :pushpin:Project 1
 The company helping brick & mortar retailers provide a level of experience that surpasses online experiences through advanced video analytics. 
-They convert live videos into actionable intelligence using AI-powered software to make space more profitable and productive.
+They convert live videos into actionable intelligence using AI-powered software to make space more profitable and productive.</br>
 :pushpin:Project 2
-Fintech's all-in-one assignment management tool leads teens through a logical step-by-step process of gig creation, assignment, completion, and payment.
+Fintech's all-in-one assignment management tool leads teens through a logical step-by-step process of gig creation, assignment, completion, and payment.</br>
 :pushpin:Project 3
-The platform provides a client communication and digital payments solution for veterinary clinics, enabling them to better engage with pet owners and better advocate for their patients.
+The platform provides a client communication and digital payments solution for veterinary clinics, enabling them to better engage with pet owners and better advocate for their patients.</br>
 :pushpin:Project 4
-Customizable management dashboard, allowing you to make swift, data-driven decisions.
+Customizable management dashboard, allowing you to make swift, data-driven decisions.</br>
 
 Languages and Frameworks:<br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/createreactapp"/> React <br/>
