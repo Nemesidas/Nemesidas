@@ -1,4 +1,4 @@
-<img  width=100% src="https://github.com/Nemesidas/Nevesidas/blob/master/Banner-Github.jpg" />
+<img  width=100% src="https://github.com/Nemesidas/Nemesidas/blob/master/Banner-Github.jpg" />
 
 ### Front-end developer 3+ years
 :white_check_mark: Highly competent in translating business needs into technical requirements.<br/>
